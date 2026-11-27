@@ -41,3 +41,4 @@
 - 15:20:59 Q34 그림 5.7 Try it out -1
 - 15:28:29 Q0 ch06 장 시작 (출처: boot4 Chapter06 MongoDB·MySQL 설정)
 - 15:44:33 Q35 그림 6.2 mongosh products 조회
+- 15:45:52 Q36 그림 6.3 MySQL reviews 조회

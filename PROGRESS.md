@@ -16,3 +16,4 @@
 - 14:25:11 Q0 ch04 장 시작 (출처: boot4 Chapter04 Dockerfile·docker-compose·yml)
 - 14:26:59 Q10 그림 4.2 docker run ubuntu
 - 14:30:57 Q12 그림 4.4 fedora os-release
+- 14:31:15 Q11 그림 4.3 ubuntu os-release

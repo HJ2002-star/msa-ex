@@ -6,3 +6,4 @@
 - 13:54:16 Q1 그림 3.2 product-service 파일 목록
 - 13:57:57 Q2 그림 3.3 gradlew build
 - 13:59:19 Q3 그림 3.6 Started 4줄
+- 14:01:28 Q4 그림 3.5 product-service 테스트

@@ -28,3 +28,4 @@
 - 14:47:20 Q21 그림 4.13 docker images chapter04
 - 14:50:08 Q22 그림 4.14 docker compose up 4개 서비스 시작
 - 14:51:48 Q23 그림 4.15 curl docker compose product-composite 123
+- 14:52:46 Q24 그림 4.15-2 jq serviceAddresses

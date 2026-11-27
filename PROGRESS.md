@@ -17,3 +17,4 @@
 - 14:26:59 Q10 그림 4.2 docker run ubuntu
 - 14:30:57 Q12 그림 4.4 fedora os-release
 - 14:31:15 Q11 그림 4.3 ubuntu os-release
+- 14:34:00 Q13 그림 4.5 jshell availableProcessors

@@ -47,3 +47,4 @@
 - 15:54:05 Q39 그림 6.7 스웨거 POST 123456
 - 15:55:19 Q38 그림 6.5 영속성
 - 15:56:32 Q40 그림 6.8 docker compose logs 123456
+- 15:58:11 Q42 그림 6.10 mongosh recommendations find

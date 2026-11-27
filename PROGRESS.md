@@ -32,3 +32,4 @@
 - 14:54:05 Q25 그림 4.16 test-em-all.bash 완료
 - 14:55:36 Q26 그림 4.17 docker compose ps 확인
 - 14:59:21 Q27 그림 4.19 docker compose logs product
+- 15:02:40 Q0 ch05 장 시작 (출처: boot4 Chapter05 build.gradle·yml·test-em-all)

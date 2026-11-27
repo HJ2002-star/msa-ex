@@ -9,3 +9,4 @@
 - 14:01:28 Q4 그림 3.5 product-service 테스트
 - 14:03:35 Q5 그림 3.6 Started 4줄
 - 14:05:09 Q6 그림 3.7 curl JSON 응답
+- 14:06:34 Q7 그림 3.8 jq JSON 응답

@@ -5,3 +5,4 @@
 - 13:51:17 Q0 ch03 4개 마이크로서비스 구현
 - 13:54:16 Q1 그림 3.2 product-service 파일 목록
 - 13:57:57 Q2 그림 3.3 gradlew build
+- 13:59:19 Q3 그림 3.6 Started 4줄

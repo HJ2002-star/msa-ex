@@ -7,3 +7,4 @@
 - 13:57:57 Q2 그림 3.3 gradlew build
 - 13:59:19 Q3 그림 3.6 Started 4줄
 - 14:01:28 Q4 그림 3.5 product-service 테스트
+- 14:03:35 Q5 그림 3.6 Started 4줄

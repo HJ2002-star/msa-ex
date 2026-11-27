@@ -19,3 +19,4 @@
 - 14:31:15 Q11 그림 4.3 ubuntu os-release
 - 14:34:00 Q13 그림 4.5 jshell availableProcessors
 - 14:34:46 Q14 그림 4.6 MaxHeapSize
+- 14:36:50 Q15 그림 4.7 fat-jar 파일 확인

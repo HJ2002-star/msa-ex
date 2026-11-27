@@ -40,3 +40,4 @@
 - 15:18:55 Q32 그림 5.5 4xx 응답 문서
 - 15:20:59 Q34 그림 5.7 Try it out -1
 - 15:28:29 Q0 ch06 장 시작 (출처: boot4 Chapter06 MongoDB·MySQL 설정)
+- 15:44:33 Q35 그림 6.2 mongosh products 조회

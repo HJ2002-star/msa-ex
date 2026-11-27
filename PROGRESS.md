@@ -24,3 +24,4 @@
 - 14:39:56 Q17 그림 4.9 docker run product-service
 - 14:42:27 Q18 그림 4.10 curl 8080 product 3
 - 14:43:48 Q19 그림 4.11 docker ps 확인
+- 14:44:48 Q20 그림 4.12 docker run -d my-prd-srv

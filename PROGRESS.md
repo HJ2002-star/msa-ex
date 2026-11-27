@@ -36,3 +36,4 @@
 - 15:09:15 Q29 그림 5.3 ProductComposite API 문서
 - 15:11:02 Q28 그림 5.2 스웨거 UI 첫 화면
 - 15:15:24 Q30 그림 5.3 ProductComposite API 문서
+- 15:18:09 Q31 그림 5.4 200 응답 문서

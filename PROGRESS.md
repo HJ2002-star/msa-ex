@@ -30,3 +30,4 @@
 - 14:51:48 Q23 그림 4.15 curl docker compose product-composite 123
 - 14:52:46 Q24 그림 4.15-2 jq serviceAddresses
 - 14:54:05 Q25 그림 4.16 test-em-all.bash 완료
+- 14:55:36 Q26 그림 4.17 docker compose ps 확인

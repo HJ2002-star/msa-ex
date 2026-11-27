@@ -29,3 +29,4 @@
 - 14:50:08 Q22 그림 4.14 docker compose up 4개 서비스 시작
 - 14:51:48 Q23 그림 4.15 curl docker compose product-composite 123
 - 14:52:46 Q24 그림 4.15-2 jq serviceAddresses
+- 14:54:05 Q25 그림 4.16 test-em-all.bash 완료

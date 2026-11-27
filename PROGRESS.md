@@ -21,3 +21,4 @@
 - 14:34:46 Q14 그림 4.6 MaxHeapSize
 - 14:36:50 Q15 그림 4.7 fat-jar 파일 확인
 - 14:38:37 Q16 그림 4.8 docker images product-service
+- 14:39:56 Q17 그림 4.9 docker run product-service

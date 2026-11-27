@@ -49,3 +49,4 @@
 - 15:56:32 Q40 그림 6.8 docker compose logs 123456
 - 15:58:11 Q42 그림 6.10 mongosh recommendations find
 - 15:58:56 Q43 그림 6.11
+- 16:01:41 Q44 그림 6.12 test-em-all.bash 완료

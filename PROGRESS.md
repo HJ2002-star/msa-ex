@@ -13,3 +13,4 @@
 - 14:17:20 Q8 그림 3.9 IntelliJ Spring Boot 실행
 - 14:20:45 Q8 그림 3.9 IntelliJ Spring Boot 실행
 - 14:22:35 Q9 그림 3.10 test-em-all.bash
+- 14:25:11 Q0 ch04 장 시작 (출처: boot4 Chapter04 Dockerfile·docker-compose·yml)

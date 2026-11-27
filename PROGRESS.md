@@ -44,3 +44,4 @@
 - 15:45:52 Q36 그림 6.3 MySQL reviews 조회
 - 15:48:15 Q37 그림 6.4 PersistenceTests BUILD SUCCESSFUL
 - 15:51:35 Q39 그림 6.7 스웨거 POST 123456
+- 15:54:05 Q39 그림 6.7 스웨거 POST 123456
